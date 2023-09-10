@@ -6,7 +6,7 @@ import './App.css';
 //import axios from "axios";
 import { fetchTienda  } from './fetchers/tienda';
 
-
+//SE AGRGA COMENTARIO
 
 function ProductList() {
     const [products, setProducts] = useState([]);
